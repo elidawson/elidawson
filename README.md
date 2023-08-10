@@ -1,9 +1,9 @@
 <h1>hi 👋, i'm Eli Dawson</h1>
 <h3 >i'm a software developer and musician</h3> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elidawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elidawson" height="30" width="40" /></a>
+<h3>Connect with me:</h3>
+<p >
+<a href="https://linkedin.com/in/elidawson"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elidawson" height="30" width="40" /></a>
 <a href="https://medium.com/@elidawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elidawson" height="30" width="40" /></a>
 </p>
 
