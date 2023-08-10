@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Eli Dawson</h1>
-<h3 >I'm a software developer and musician</h3> 
+<h3 >I'm a software developer who loves innovating and creating. I also teach music and play guitar./h3> 
 
 <h3>Connect with me:</h3>
 <p>
