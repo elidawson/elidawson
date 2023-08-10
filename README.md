@@ -34,7 +34,7 @@
   />
   <!-- React Icon -->
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    src="./react-original.svg"
     alt="react"
     width="40"
     height="40"
