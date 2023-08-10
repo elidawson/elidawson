@@ -24,7 +24,7 @@
 </p>
 
 <h3>Languages:</h3>
-<p>
+<div style="display: flex; justify-content: space-between;">
   <!-- Javascript Icon -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -67,7 +67,6 @@
     width="40" 
     height="40"
   />
-  
   <!-- Git Icon-->
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -75,6 +74,6 @@
     width="40"
     height="40"
   />
-</p>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidawson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
