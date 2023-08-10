@@ -1,11 +1,5 @@
 <h1 align="center">hi 👋, i'm Eli Dawson</h1>
-<h3 align="center">i'm a software developer and musician</h3>
-
-- 📫 How to reach me **edawson@alumni.berklee.edu**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">i'm a software developer and musician</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
