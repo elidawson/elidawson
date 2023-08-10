@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋, i'm Eli Dawson</h1>
-<h3 align="center">i'm a software developer and musician</h3> 
+<h1>hi 👋, i'm Eli Dawson</h1>
+<h3 >i'm a software developer and musician</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
