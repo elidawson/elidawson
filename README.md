@@ -2,26 +2,26 @@
 <h3 >I'm a software developer who loves innovating and creating. I also teach music and play guitar.</h3> 
 
 <h3>Connect with me:</h3>
-<p>
+<div style="display: flex; justify-content: space-between;">
   <!-- Linkedin Link -->
   <a href="https://linkedin.com/in/elidawson">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="elidawson" 
-      height="30" 
-      width="40" 
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="elidawson"
+      height="30"
+      width="40"
     />
   </a>
   <!-- Medium Link -->
   <a href="https://medium.com/@elidawson">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-      alt="@elidawson" 
-      height="30" 
-      width="40" 
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="@elidawson"
+      height="30"
+      width="40"
     />
   </a>
-</p>
+</div>
 
 <h3>Languages:</h3>
 <div style="display: flex; justify-content: space-between;">
