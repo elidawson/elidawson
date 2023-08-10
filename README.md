@@ -27,49 +27,49 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- Javascript Icon -->
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    src="./javascript-icon.svg"
     alt="javascript"
     width="40"
     height="40"
   />
   <!-- React Icon -->
   <img
-    src="./react-original.svg"
+    src="./react-icon.svg"
     alt="react"
     width="40"
     height="40"
   />
    <!-- Python Icon -->
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    src="./python-icon.svg"
     alt="python"
     width="40"
     height="40"
   />
   <!-- Flask Icon -->
   <img
-    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+    src="./flask-icon.svg"
     alt="flask"
     width="40"
     height="40"
   />
   <!-- HTML Icon -->
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    src="./html5.svg"
     alt="html5"
     width="40"
     height="40"
   />
   <!-- CSS Icon -->
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    src="./css3.svg"
     alt="css3"
     width="40" 
     height="40"
   />
   <!-- Git Icon-->
   <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    src="./git-icon.svg"
     alt="git"
     width="40"
     height="40"
