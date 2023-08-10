@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm Eli Dawson. I'm a software engineer and a musician
 
 [linkedin]: https://www.linkedin.com/in/elidawson/
 
