@@ -56,14 +56,14 @@
   />
   <!-- HTML Icon -->
   <img
-    src="./html5.svg"
+    src="./html5-icon.svg"
     alt="html5"
     width="40"
     height="40"
   />
   <!-- CSS Icon -->
   <img
-    src="./css3.svg"
+    src="./css3-icon.svg"
     alt="css3"
     width="40" 
     height="40"
