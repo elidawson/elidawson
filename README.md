@@ -5,7 +5,7 @@
 <h3>Connect with me:</h3>
 <div style="display: flex; justify-content: space-between;">
   <!-- Linkedin Link -->
-  <a href="https://linkedin.com/in/elidawson">
+  <a href="https://linkedin.com/in/elidawson" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="elidawson"
@@ -14,7 +14,7 @@
     />
   </a>
   <!-- Medium Link -->
-  <a href="https://medium.com/@elidawson">
+  <a href="https://medium.com/@elidawson" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="@elidawson"
