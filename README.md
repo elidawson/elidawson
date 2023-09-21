@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Eli Dawson</h1>
+Hi 👋, I'm Eli Dawson
 I'm a Software Developer, Music Teacher and Guitarist
 I'm currently learning C & CSound
 
