@@ -1,5 +1,5 @@
 Hi 👋, I'm Eli Dawson
-I'm a Software Developer, Music Teacher and Guitarist
+#I'm a Software Developer, Music Teacher and Guitarist
 I'm currently learning C & CSound
 
 <h3>Connect with me:</h3>
