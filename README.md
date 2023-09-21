@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Eli Dawson</h1>
 <h3>I'm a Software Developer, Music Teacher and Guitarist</h3>
-<h1>I'm currently learning C & CSound</h3>
+<h3>I'm currently learning C & CSound</h3>
 
 <h3>Connect with me:</h3>
 <div style="display: flex; justify-content: space-between;">
